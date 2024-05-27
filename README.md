@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Owen
 ============================================================================================================================
 
-I used to be a solutions engineer, and now I decided to switch careers to become a software engineer, as I found that I was more interested in developing innovative products.
+Developing innovative products while figuring out how the wheel works.
 
 ### Skills
 
